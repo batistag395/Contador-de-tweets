@@ -4,5 +4,5 @@ GET http://localhost:3000/tweets
 POST http://localhost:3000/tweets
 #Content-Type: application/json
 {
- "name": "teste conteudo dos tweets"
+ "name": "teste conteudo 2 dos tweets"
 }
